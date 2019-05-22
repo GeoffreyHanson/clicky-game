@@ -1,6 +1,7 @@
 import React from "react";
 import "./style.css";
 
+// Handles each randomized card.
 function FriendCard(props) {
   return (
     <div className="card">
